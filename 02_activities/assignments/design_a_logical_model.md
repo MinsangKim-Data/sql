@@ -1,5 +1,6 @@
 # Assignment 1: Design a Logical Model
 
+## Minsang Kim
 ## Question 1
 Create a logical model for a small bookstore. 📚
 
